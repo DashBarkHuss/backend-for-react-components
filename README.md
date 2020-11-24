@@ -1,6 +1,6 @@
 ## Upload Image Example Express
 
-This is an express node.js sample project that shows how an image sent to the backend can be handled. You can use this to create a backend that stores user uploaded profile pictures for example.
+This is an express node.js backend for my react component git hub.
 
 To use this project
 
@@ -12,9 +12,4 @@ To use this project
 
 ## Frontend
 
-Check out the frontend companion code [code here.](https://github.com/DashBarkHuss/react-dropzone-sample)
-
-## Demo Video
-
-Watch how the front end and back end work together:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_CZtTBHZn0o/0.jpg)](https://www.youtube.com/watch?v=_CZtTBHZn0o)
+Check out the frontend companion code [code here.](https://github.com/DashBarkHuss/react-components/tree/b938635fc1f48fce7980d7ce618236c2d4b10088)
